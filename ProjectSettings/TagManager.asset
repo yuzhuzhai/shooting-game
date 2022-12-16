@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - ZombieHealth
+  - RocketMissile
+  - PlayerHealth
+  - Bullet
+  - FireBullet
+  - Fence
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Bullet
+  - ZombieHealth
+  - PlayerHealth
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Road
+    uniqueID: 95577195
+    locked: 0
+  - name: Wall
+    uniqueID: 2611966613
+    locked: 0
+  - name: Move
+    uniqueID: 1281842189
+    locked: 0
+  - name: Player
+    uniqueID: 1538893021
+    locked: 0
+  - name: FX
+    uniqueID: 3915644973
+    locked: 0
+  - name: UI
+    uniqueID: 2354858105
+    locked: 0
